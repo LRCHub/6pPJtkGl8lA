@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ボーダー",
+  "base_artist": "Nogizaka46",
+  "createdAt": "2026-03-04T10:54:36.098082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイ マイ ボーダー",
+      "artist": "田村ゆかり",
+      "has_synced": true,
+      "path": "select/01_アイ_マイ_ボーダー_田村ゆかり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ボーダー",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/02_ボーダー_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アイ マイ ボーダー",
+      "artist": "Yukari Tamura",
+      "has_synced": false,
+      "path": "select/03_アイ_マイ_ボーダー_Yukari_Tamura.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ボーダー",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/04_ボーダー_乃木坂46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボーダー",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_ボーダー_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ボーダー",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_02_ボーダー_乃木坂46.txt"
+    }
+  ]
+}
